@@ -2,6 +2,7 @@
 Hi Potential Recruiter!
 
 You're looking at my Github and seeing that it's a bit sparse on public projects. :(
+
 Unfortunately most of my coding career has been in writing code for my own startups which are private repos. Happy to share these if you shoot me an email at aasimsani05 at gmail.com
 
 However here's a few highlights:
