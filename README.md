@@ -3,7 +3,7 @@ Hi Potential Recruiter! - Looking for my code?
 
 Unfortunately most of my coding career has been writing code for companies which due to legal reasons are private repos. 
 
-Happy to share these if you shoot me an email at aasimsani05 at gmail.com
+Happy to figure out how I can best share these with you if you shoot me an email at aasimsani05 at gmail.com
 
 However here's a few highlights:
 1. [Artificial Manga Panel Dataset](https://github.com/aasimsani/artificial_manga_panel_dataset) and it's [accompanying AI model repo](https://github.com/aasimsani/ampd-ml.git) - Top 10 Projects Fullstack Deep Learning Class of Spring 2021
